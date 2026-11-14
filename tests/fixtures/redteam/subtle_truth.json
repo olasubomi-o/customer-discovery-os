@@ -1,0 +1,9 @@
+{
+  "S1": "Truncated quote flips meaning: I-001 said they would pay for something that works BUT NOT AT NINETY, $40 ceiling. Synthesis uses the fragment as support for $90.",
+  "S2": "Double counting: I-003 and I-004 are the same agency (Pixel and Pine), so '4 agencies' is really 3",
+  "S3": "Secondhand behavior: I-005's chasing pain is about a friend's agency; I-005 themselves chase only occasionally",
+  "S4": "Count error: 5 of 7 weekly is wrong; only I-001, I-003, I-004 say weekly (3 of 7); I-007 monthly, I-005 hearsay, I-002 outdated",
+  "S5": "Priming: in I-006 the founder pitched the product, features and price before asking; the answer echoes the pitch; behavior is 'not often'",
+  "S6": "Stale evidence: I-002's heavy chasing was three years ago; they now invoice upfront",
+  "S7": "Non-response bias: only replies to outreach were interviewed (context note says 31 contacted, 7 replied), so 'agencies feel this strongly' generalizes from the self-selected"
+}

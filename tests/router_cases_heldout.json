@@ -1,0 +1,132 @@
+[
+ {
+  "id": 1,
+  "msg": "Give me a pre-call, during-call and post-call routine for my customer research conversations",
+  "primary": "discovery-guide",
+  "ok": [
+   "interview-prep"
+  ]
+ },
+ {
+  "id": 2,
+  "msg": "What do I do first? I just have a rough idea for a scheduling app",
+  "primary": "discovery-start",
+  "ok": [
+   "discovery-guide"
+  ]
+ },
+ {
+  "id": 3,
+  "msg": "I ran a demo for a prospect this morning, write up the recap and next steps email",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 4,
+  "msg": "Here is the transcript from my call with a customer I interviewed yesterday, pull out the evidence",
+  "primary": "interview-analysis",
+  "ok": []
+ },
+ {
+  "id": 5,
+  "msg": "Interviews said people hate the onboarding but my survey says they love it. How do I reconcile that?",
+  "primary": "pattern-synthesis",
+  "ok": [
+   "red-team"
+  ]
+ },
+ {
+  "id": 6,
+  "msg": "Draft the email I send to local gym owners to get 20 minutes of their time to learn about their problems",
+  "primary": "participant-outreach",
+  "ok": []
+ },
+ {
+  "id": 7,
+  "msg": "Write a promotional email blast announcing our launch discount",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 8,
+  "msg": "Rewrite my homepage headline to be more compelling",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 9,
+  "msg": "Turn these customer quotes into three homepage headlines",
+  "primary": "voice-of-customer",
+  "ok": []
+ },
+ {
+  "id": 10,
+  "msg": "Design a customer satisfaction NPS survey for our existing users",
+  "primary": "none",
+  "ok": [
+   "survey-lab"
+  ]
+ },
+ {
+  "id": 11,
+  "msg": "Write a survey to size how many of my interviewees' problem exists in the wider market",
+  "primary": "survey-lab",
+  "ok": []
+ },
+ {
+  "id": 12,
+  "msg": "Who are the real buyers at a hospital versus the people who use my tool?",
+  "primary": "b2b-discovery",
+  "ok": []
+ },
+ {
+  "id": 13,
+  "msg": "Tell me about Notion's competitors and what users complain about on Reddit",
+  "primary": "market-scan",
+  "ok": []
+ },
+ {
+  "id": 14,
+  "msg": "Does my evidence justify quitting my job to build this? Write it up",
+  "primary": "decision-memo",
+  "ok": [
+   "red-team"
+  ]
+ },
+ {
+  "id": 15,
+  "msg": "Try to tear apart my conclusion that dentists want this",
+  "primary": "red-team",
+  "ok": []
+ },
+ {
+  "id": 16,
+  "msg": "What cheap test can I run to see if people will pre-pay?",
+  "primary": "experiment-designer",
+  "ok": []
+ },
+ {
+  "id": 17,
+  "msg": "Are these interview questions leading: 'Would you use an app that does X?'",
+  "primary": "interview-prep",
+  "ok": []
+ },
+ {
+  "id": 18,
+  "msg": "Help me plan a product roadmap for next quarter",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 19,
+  "msg": "Summarize this earnings call transcript for me",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 20,
+  "msg": "Find patterns across my 8 interviews about why people churn",
+  "primary": "pattern-synthesis",
+  "ok": []
+ }
+]

@@ -1,0 +1,10 @@
+Founder: Thanks for helping, Marcus. So tell me about the last time a client paid you late.
+Marcus: Hm. Honestly, I cannot think of a recent one. Most of our clients pay within a couple of weeks. We had one two years ago that took a while.
+Founder: Okay. But the idea is software that sends polite reminders automatically. What do you think?
+Marcus: Oh that is a great idea. I would totally use something like that. You should absolutely build it, I think a lot of people would love it.
+Founder: Would you pay for it?
+Marcus: Sure, probably. Depends on the price, but yeah. It sounds really cool.
+Founder: How do you handle it when someone does pay late?
+Marcus: I just email them. It takes a minute. Honestly it is not really a problem for us.
+Founder: Anyone else you know who has this problem?
+Marcus: I am sure plenty of people do. Agencies, freelancers. Good luck with it, I am rooting for you!

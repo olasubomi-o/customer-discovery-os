@@ -1,0 +1,6 @@
+# Real project data must never be committed. The demo folder under examples/ is the exception.
+discovery/
+!examples/**/discovery/
+__pycache__/
+*.pyc
+.DS_Store

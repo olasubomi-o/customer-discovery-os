@@ -1,0 +1,12 @@
+Founder: Thanks for joining. I am building a tool that automatically chases late invoices. Wouldn't it be great if software handled that for you?
+Sam: Yeah, sure, that would be nice.
+Founder: Great. Let's back up. Tell me about the last time an invoice was late.
+Sam: Two weeks ago. Average on our receivables is forty-seven days against thirty-day terms. I tracked it last quarter because cash got tight. Back in March I delayed payroll by two days because three clients were sitting on about sixty thousand combined.
+Founder: What did you do about it?
+Sam: I chase them myself, weekly, usually Monday morning, maybe two hours. My account manager also nags her contacts. There is no real system.
+Founder: Have you tried tools?
+Sam: I looked at two or three. ChaseBoard and another one. They were too expensive for what they did, and honestly they felt like they would make us look like a collections agency.
+Founder: What matters most in a solution?
+Sam: That it does not damage the relationship. Tone matters. And it has to plug into Xero without me touching it.
+Founder: Is it urgent?
+Sam: It is urgent when cash is tight. Right now it is fine.

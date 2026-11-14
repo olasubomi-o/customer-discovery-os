@@ -1,0 +1,4 @@
+id,assumption,category,evidence_for,evidence_against,source_ids,date,customers_count,evidence_type,ladder_rung,status,next_test,decision_affected
+A-01,"12 to 20 staff agencies have a recurring, costly invoice-chasing problem",problem,4 of 4 in segment report hours per week or a dedicated hire,none found after searching: I-005 and I-006 outside the segment show little pain,I-001;I-002;I-003;I-004,2026-11-10,4,behavioral,5,Emerging,"4 more interviews in segment, then waitlist page",segment to target
+A-02,Owners will pay $90 a month,willingness_to_pay,3 of 4 already pay for related things,I-001 passed on a $90 tool and would pilot at half price,I-001;I-002;I-003;I-004,2026-11-10,4,transactional,6,Weak,pricing pre-sale at $45 and $90,pricing
+A-03,The user is also the buyer,buyer_vs_user,none,"3 of 4 say owner, partner or CFO decides",I-002;I-003;I-004,2026-11-10,3,behavioral,3,Emerging,ask each for a buyer intro,who we sell to

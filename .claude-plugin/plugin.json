@@ -1,0 +1,20 @@
+{
+  "name": "customer-discovery-os",
+  "version": "0.1.0",
+  "description": "A customer discovery operating system for founders and product managers: assumptions, interviews, evidence, experiments and decisions, with enforced evidence standards. By The Product Builders.",
+  "author": {
+    "name": "Olasubomi Olawepo",
+    "url": "https://theproductbuilders.com"
+  },
+  "homepage": "https://theproductbuilders.com",
+  "keywords": [
+    "customer-discovery",
+    "startup",
+    "product-management",
+    "user-research",
+    "interviews",
+    "jtbd"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/olasubomi-o/customer-discovery-os"
+}

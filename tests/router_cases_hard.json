@@ -1,0 +1,144 @@
+[
+ {
+  "id": 1,
+  "msg": "I keep getting 'it depends' from users. Now what?",
+  "primary": "interview-prep",
+  "ok": []
+ },
+ {
+  "id": 2,
+  "msg": "help w user research",
+  "primary": "discovery-guide",
+  "ok": [
+   "discovery-start"
+  ]
+ },
+ {
+  "id": 3,
+  "msg": "Three people said they'd buy it. Is that enough?",
+  "primary": "red-team",
+  "ok": [
+   "decision-memo"
+  ]
+ },
+ {
+  "id": 4,
+  "msg": "Summarize my sales call with the prospect from yesterday and draft the follow-up email.",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 5,
+  "msg": "I need to figure out if anyone actually wants this thing before I quit my job.",
+  "primary": "discovery-start",
+  "ok": [
+   "discovery-guide"
+  ]
+ },
+ {
+  "id": 6,
+  "msg": "Rewrite my landing page copy to sound more punchy.",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 7,
+  "msg": "Our NPS survey results came back, can you chart them for the board deck?",
+  "primary": "none",
+  "ok": [
+   "survey-lab"
+  ]
+ },
+ {
+  "id": 8,
+  "msg": "Why do people keep leaving bad reviews of Calendly? I want to know before I build a competitor.",
+  "primary": "market-scan",
+  "ok": []
+ },
+ {
+  "id": 9,
+  "msg": "Send me a checklist for before, during and after customer calls.",
+  "primary": "discovery-guide",
+  "ok": [
+   "interview-prep"
+  ]
+ },
+ {
+  "id": 10,
+  "msg": "My interviews say one thing but my survey says another. Which do I trust?",
+  "primary": "pattern-synthesis",
+  "ok": [
+   "survey-lab",
+   "red-team"
+  ]
+ },
+ {
+  "id": 11,
+  "msg": "Can you check whether I'm asking leading questions in this recording transcript?",
+  "primary": "interview-analysis",
+  "ok": [
+   "interview-prep"
+  ]
+ },
+ {
+  "id": 12,
+  "msg": "Turn these 12 customer quotes into taglines.",
+  "primary": "voice-of-customer",
+  "ok": []
+ },
+ {
+  "id": 13,
+  "msg": "The CFO is the real decision maker but my contact is a manager. How do I handle that?",
+  "primary": "b2b-discovery",
+  "ok": []
+ },
+ {
+  "id": 14,
+  "msg": "Write the cold email sequence to sell our product to those leads.",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 15,
+  "msg": "What should I test first?",
+  "primary": "experiment-designer",
+  "ok": [
+   "discovery-start",
+   "discovery-guide"
+  ]
+ },
+ {
+  "id": 16,
+  "msg": "Pretend you're my customer and tell me if you would buy this.",
+  "primary": "none",
+  "ok": [
+   "red-team"
+  ]
+ },
+ {
+  "id": 17,
+  "msg": "We did the interviews last month. Time to decide: build, pivot or what?",
+  "primary": "decision-memo",
+  "ok": []
+ },
+ {
+  "id": 18,
+  "msg": "Who else is selling something like this and how much do they charge?",
+  "primary": "market-scan",
+  "ok": []
+ },
+ {
+  "id": 19,
+  "msg": "Debug why my interview scheduling Calendly link keeps timing out.",
+  "primary": "none",
+  "ok": []
+ },
+ {
+  "id": 20,
+  "msg": "Our usability testing of the prototype showed people got stuck on checkout. Write up the findings for the design team.",
+  "primary": "none",
+  "ok": [
+   "interview-analysis"
+  ]
+ }
+]

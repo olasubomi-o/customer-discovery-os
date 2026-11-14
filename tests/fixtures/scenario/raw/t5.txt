@@ -1,0 +1,10 @@
+Founder: Tell me about how invoicing and collections work at your agency.
+Ana: We use QuickBooks. Invoices go out on the first, terms are thirty days, and QuickBooks sends an automatic reminder at day thirty-five.
+Founder: What happens when a client is late?
+Ana: Honestly, most pay within a week of the due date. It is mostly fine. The real problem is two or three big clients who always go sixty or ninety days. For those I just call their finance contact.
+Founder: How much time does that take?
+Ana: Not much. An hour or two a month. The bigger issue is when a client disputes something and the invoice gets stuck, and software cannot fix that.
+Founder: Would a better reminder tool change anything?
+Ana: I doubt it. We have a process. And I am not the one who picks software. Our CFO, Mei, decides, and she is skeptical of adding tools.
+Founder: Anything you would change about the current setup?
+Ana: Maybe having the reminders sound less robotic. But that is minor.

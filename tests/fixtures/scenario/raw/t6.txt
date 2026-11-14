@@ -1,0 +1,10 @@
+Founder: Tell me about the last time you chased an invoice.
+Lee: Let me think. Probably early this month. A client was twenty days over. I sent two emails and they paid.
+Founder: How often?
+Lee: Not that often, to be honest. A few times a year. Most of our work is retainers with prepayment.
+Founder: What did that cost you?
+Lee: Barely anything, maybe thirty minutes.
+Founder: Do you currently pay for anything related to this?
+Lee: Our accountant handles billing. We pay for Xero, that is it.
+Founder: Is there anything about this you would want fixed?
+Lee: Not really. Everyone says it is a problem, but it is not a big one for us. Though, we are changing our model next quarter to project-based work with milestone invoices. That will create more invoices, and I have some budget set aside for finance tooling. If you have something, send me a demo.

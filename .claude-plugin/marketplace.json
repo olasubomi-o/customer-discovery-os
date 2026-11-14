@@ -1,0 +1,15 @@
+{
+  "name": "product-builders",
+  "owner": {
+    "name": "The Product Builders",
+    "url": "https://theproductbuilders.com"
+  },
+  "plugins": [
+    {
+      "name": "customer-discovery-os",
+      "source": "./",
+      "description": "Customer discovery operating system with enforced evidence standards: assumptions, interviews, synthesis, red-team, experiments, decision memos, and market scans."
+    }
+  ],
+  "description": "Free tools from The Product Builders for founders and product managers."
+}
